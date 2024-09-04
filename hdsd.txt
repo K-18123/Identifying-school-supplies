@@ -1,0 +1,7 @@
+Đối với 2 file classcification.py và SGT.py là 2 file thực hiện demo của bài toán.
+- Ở bài toán này chúng em sữ dụng Pycharm với python v3.11 để thực thi demo.
+- Sau khi open project tron pycharm ta cần cài các thư viện như numpy, Streamlit, tensorflow phiên bản v2.15 ,opencv.
+- Để chạy được 2 file demo chúng ta vào terminal chạy lệnh "stremlit run {tên file.py}"
+- Đối với folder colab_train_model dùng để huấn luyện các mô hình cho bước triển khai demo chúng em khuyến khích chạy trên nền tản colab với file cbdl_sg là file chúng em dùng để chuyển các ảnh cùng với mask của nó về dạng npy để tiến hành huấn luyện.
+- File classcification.ipynb thì đơn giản hơn chỉ cần link đến file data em đính kèm
+- Tương tự với file Image_segmentation.ipynb dùng với dataimages.npy và mask.npy
